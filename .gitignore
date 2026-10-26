@@ -1,0 +1,30 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Build output
+Build/
+
+# Unreal Engine user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Imported .zip files
+*.zip
